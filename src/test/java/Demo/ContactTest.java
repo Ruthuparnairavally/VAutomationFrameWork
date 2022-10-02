@@ -8,5 +8,7 @@ public class ContactTest {
 	public void contact()
 	{
 		System.out.println("This is first class--AdvanceSel2");
+		
+		System.out.println("second commit");
 	}
 }
