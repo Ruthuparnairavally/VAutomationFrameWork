@@ -10,5 +10,7 @@ public class ContactTest {
 		System.out.println("This is first class--AdvanceSel2");
 		
 		System.out.println("second commit");
+		
+		System.out.println("third commit");
 	}
 }
